@@ -1,0 +1,32 @@
+[
+        {
+            "name": "Vikas",
+            "jerseyNumber": "01",
+            "Total Goals": "120",
+            "id": 1
+        },
+        {
+            "name": "hitesh",
+            "jerseyNumber": "02",
+            "Total Goals": "124",
+            "id": 2
+        },
+        {
+            "name": "bhavesh",
+            "jerseyNumber": "03",
+            "Total Goals": "121",
+            "id": 3
+        },
+        {
+            "name": "anil",
+            "jerseyNumber": "04",
+            "Total Goals": "123",
+            "id": 4
+        },
+        {
+            "name": "jitesg",
+            "jerseyNumber": "05",
+            "Total Goals": "101",
+            "id": 5
+        }
+    ]
